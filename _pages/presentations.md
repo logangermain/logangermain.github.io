@@ -13,7 +13,7 @@ Academic Presentations
   
 
 Competitions & Talks
-- **3MT Speech Competition** – [Watch my 3-minute thesis video](https://queensuca-my.sharepoint.com/:v:/r/personal/ls188_queensu_ca/Documents/3MT%202025%20Videos/Heat%203/Logan%20Germain%203MT%202025%20Heat%203.mp4?csf=1&web=1&e=3AfVQB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **3MT Speech Competition** – [Watch my 3-minute thesis video](https://drive.google.com/file/d/1PKzyLPm5T303KwgAAEdDGKDBLQ7LGogW/view?usp=sharing)
 
 
 
