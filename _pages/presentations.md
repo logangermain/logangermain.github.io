@@ -14,8 +14,8 @@ Academic Presentations
   
 
 Competitions & Talks
-- **3MT Speech Competition** – [Watch my 3-minute thesis video](https://drive.google.com/file/d/1PKzyLPm5T303KwgAAEdDGKDBLQ7LGogW/view?usp=sharing)
+- **3MT Speech Competition 2025** – [Watch my 3-minute thesis video](https://drive.google.com/file/d/1PKzyLPm5T303KwgAAEdDGKDBLQ7LGogW/view?usp=sharing)
 
-- **Guest Lecture in Environmental Toxicology and Chemical Risks course** - [View my slide deck!](https://logangermain.github.io/assets/ENSC201%20Presentation.pptx)
+- **Guest Lecture in Environmental Toxicology and Chemical Risks course 2025** - [View my slide deck!](https://logangermain.github.io/assets/ENSC201%20Presentation.pptx)
 
 
