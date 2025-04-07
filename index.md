@@ -8,7 +8,7 @@ permalink: /
 Welcome to my growing portfolio!
 
 I'm **Logan Germain**, a second-year PhD candidate in the Department of Biomedical and Molecular Sciences at Queen’s University, specializing in Drug Development and Human Toxicology.  
-My research explores how drug and chemical exposures during embryonic development can alter epigenetic and gene expression profiles—changes that may serve as early molecular markers of disease risk or even uncover novel therapeutic pathways.
+My research explores how drug and chemical exposures during embryonic development can alter epigenetic and gene expression profiles using in vitro techniques and bioinformatics tools — changes that may serve as early molecular markers of disease risk or even uncover novel therapeutic pathways.
 
 I'm passionate about **science communication**—the art of translating complex technical ideas into clear, accessible insights for various stakeholders and audiences. This is a skill I continue to develop through personal projects and professional "side quests."
 
