@@ -4,14 +4,12 @@ title: "Writing Samples"
 permalink: /writing/
 ---
 
-Here are a few examples of my writing across different formats and audiences:
+Here are a few examples of my writing across different formats and for different audiences:
 
-Academic & Research-Focused Writing
-- [Impact of Triphenyl Phosphate on DNA Methylation in Rainbow Trout](https://yourlinkhere.com) – Poster presented at STC Symposium
-- [Comprehensive Exam Essay: Epigenetic Modifications and Cancer](https://yourlinkhere.com)
+**Published Papers:**
+- [The flame retardant triphenyl phosphate alters the epigenome of embryonic cells in an aquatic in vitro model](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jat.4589) – Poster presented at STC Symposium
+- [Reference gene considerations for toxicological assessment of the flame retardant triphenyl phosphate in an in vitro fish embryonic model](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jat.4698)
 
-Popular Science / Outreach Writing
-- *Coming soon*
+Personal Projects:
+- 
 
-Blog or Personal Essays
-- *Coming soon*
