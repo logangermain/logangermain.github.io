@@ -4,7 +4,7 @@ title: "Presentation Samples"
 permalink: /presentations/
 ---
 
-A highlighted selection of my recent presentations and public speaking events:
+A select few of my recent presentations and public speaking events:
 
 Academic Presentations
 - **Canadian National Perinatal Research Meeting 2024** - [View my award-winning poster!](https://logangermain.github.io/assets/CAMCCOL%20Poster.pdf)
