@@ -70,4 +70,6 @@ defaults:
       layout: single
       sidebar:
         nav: "main"
+      author_profile: true   
+
 
