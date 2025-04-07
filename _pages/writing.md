@@ -12,5 +12,5 @@ Here are a few examples of my writing across different formats and for different
 
 **Personal Projects:**
 - [The influence of intrinsic and extrinsic factors on epigenetic modulation in
-response to chemical exposures] (/assets/Epigenetic%20response%20to%20chemical%20exposures.pdf)
+response to chemical exposures] (https://logangermain.github.io/assets/Epigenetic%20response%20to%20chemical%20exposures.pdf)
 
