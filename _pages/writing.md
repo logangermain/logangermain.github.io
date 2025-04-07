@@ -14,4 +14,5 @@ Here are a few examples of my writing across different formats and for different
 - [The influence of intrinsic and extrinsic factors on epigenetic modulation in
 response to chemical exposures](https://logangermain.github.io/assets/Epigenetic%20response%20to%20chemical%20exposures.pdf)
 - [The challenges of linking chemical exposures to carcinogenesis](https://logangermain.github.io/assets/Carcinogenesis.pdf)
-
+- [Read my application to the Awesome Foundation for a micro-grant at the small business](https://docs.google.com/document/d/1ZtyoDNkdRa4leO6JWJ2caRIEag0TRUrJi0Yy8vJkhE4/edit?usp=sharing)
+  
