@@ -1,10 +1,4 @@
 
----
-layout: single
-title: "Welcome"
-permalink: /
----
-
 
 Welcome to my growing portfolio!
 
