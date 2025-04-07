@@ -1,7 +1,11 @@
+
 ---
 layout: single
-title: "Introduction to Logan Germain"
+title: "Welcome"
 permalink: /
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 
 
