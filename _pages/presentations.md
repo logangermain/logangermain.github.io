@@ -7,7 +7,7 @@ permalink: /presentations/
 A highlighted selection of my recent presentations and public speaking events:
 
 Academic Presentations
-- **Canadian National Perinatal Research Meeting 2024** [View Poster PDF](assets/CAMCCOL20%Poster.pdf)
+- **Canadian National Perinatal Research Meeting 2024** [View Poster PDF](assets/CAMCCOL%20Poster.pdf)
   I received Best Poster Award and a substantial travel award out of 100s of other candidates for this presentation!
 
   
