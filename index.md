@@ -5,6 +5,7 @@ title: "Welcome"
 permalink: /
 ---
 
+
 Welcome to my portfolio!
 
 I'm **Logan Germain**, a second-year PhD candidate in the Department of Biomedical and Molecular Sciences at Queen’s University, specializing in Drug Development and Human Toxicology.  
