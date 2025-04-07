@@ -75,3 +75,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "main"
