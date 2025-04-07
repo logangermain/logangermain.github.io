@@ -33,4 +33,4 @@ This site highlights a selection of my work:
 - 🎤 [Presentation Highlights](/presentations/)
 - 📱 [Social Media Content](/socialmedia/)
 
-Please feel free to explore — and don’t hesitate to [connect with me on LinkedIn](https://www.linkedin.com/in/logan-germain-72b1201a9/) or [send me an
+Please feel free to explore — and don’t hesitate to [connect with me on LinkedIn](https://www.linkedin.com/in/logan-germain-72b1201a9/) or [send me an email](mailto:15lsg@queensu.ca)!
