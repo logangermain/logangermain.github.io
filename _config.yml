@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Logan Germain"
-  avatar : "/assets/images/bio-photo.jpg" # upload headshot here
+  avatar : "/assets/images/IMG_3205.jpg" # upload headshot here
   bio    : "PhD Candidate in Drug Development and Human Toxicology. Passionate about science communication and innovation."
   links:
     - label: "LinkedIn"
