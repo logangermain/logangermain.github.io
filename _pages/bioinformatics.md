@@ -8,7 +8,6 @@ I develop bioinformatics and statistical modelling pipelines to assess multi-omi
 
 My work focuses on uncovering mechanistic disruptions to metabolic and endocrine pathways involved with cancer, diabetes and obesity, and translating these findings into predictive tools for chemical toxicity.
 
-Here are some of the analyses I have experience working on:
 
 **My analytical experience includes:**
 
