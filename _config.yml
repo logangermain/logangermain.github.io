@@ -53,6 +53,10 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:15lsg@queensu.ca"
 
+collections:
+  pages:
+    output: true
+    permalink: /:title/
 
 
 category_archive:
