@@ -4,6 +4,20 @@ title: "Bioinformatics Tools"
 permalink: /bioinformatics/
 ---
 
-I am working on pipelines for assessinng Differential Gene Expression, unsupervised clustering of gene networks, Differential Methylation Analysis, biological enrichment, multi-omic integration, and recently ML-based toxicity predictions based on data trained from my STE-137 cell model.
+I develop bioinformatics and statistical modelling pipelines to assess multi-omic changes across the transcriptome and epigenome in response to chemical exposures. These analyses are performed using STE-137, an embryonic cell model I established for toxicological screening (see my publications).
 
-Pipeline repos to come soon!
+My work focuses on uncovering mechanistic disruptions to metabolic and endocrine pathways involved with cancer, diabetes and obesity, and translating these findings into predictive tools for chemical toxicity.
+
+Here are some of the analyses I have experience working on:
+
+**My analytical experience includes:**
+
+- Differential gene expression analysis (DESeq2)
+- Unsupervised clustering using Weighted Gene Co-expression Network Analysis (WGCNA)
+- Gene Set Enrichment Analysis (GSEA) to identify coordinated shifts in biological pathways
+- Genome-wide differential methylation analysis at CpG resolution (methylKit)
+- Biological pathway enrichment (GO, KEGG)
+- Multi-omic integration of transcriptomic and epigenomic data
+- Early-stage machine learning models for toxicity prediction trained on STE-137 outcomes
+
+Pipeline repositories and tutorials for replicating this work in non-model organisms are coming soon! 
