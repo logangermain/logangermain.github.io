@@ -7,3 +7,5 @@ main:
     url: /communications/
   - title: "Projects"
     url: /projects/
+  - title: "Bioinformatics"
+    url: /bioinformatics/
