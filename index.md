@@ -24,7 +24,7 @@ My work spans:
 
 ## Interests & Goals
 
-- Translating academic science into actionable, real-world solutions
+- Translating science innovation into actionable, commercializable, real-world solutions!
 - Exploring roles in **venture capital/creation**, **regulatory affairs**, and **medical affairs**
 - Collaborating on **data-driven biotech tools** and **scientific strategy**
 
