@@ -1,31 +1,40 @@
 
 
-Welcome to my growing portfolio!
-
 I'm **Logan Germain**, a second-year PhD candidate in the Department of Biomedical and Molecular Sciences at Queen’s University, specializing in Drug Development and Human Toxicology.  
-My research explores how drug and chemical exposures during embryonic development can alter epigenetic and gene expression profiles using in vitro techniques and bioinformatics tools — changes that may serve as early molecular markers of disease risk or even uncover novel therapeutic pathways.
 
-I'm passionate about **science communication**: the art of translating complex technical ideas into clear, accessible insights for various stakeholders and audiences. This is a skill I continue to develop through personal projects and professional "side quests."
 
-I'm equally driven by **strategic decision-making**, whether it's designing experiments based on the latest literature or my results, mentoring undergraduate students, or collaborating across disciplines. 
 
-I thrive in **cross-functional environments**: from coordinating communications at the Birth Defects Research and Prevention Society to serving on the Board of Directors at the Kingston Bouldering Cooperative. I'm used to wearing many hats and adapting quickly based on evolving data or team input.
+# 👋 Hi, I'm Logan Germain
 
-Lately, I've been exploring the **cell and gene therapy landscape**, and recently completed a draft review article analyzing commercialization challenges and access strategies within a Canadian context. 
+I'm a PhD candidate in Drug Development & Human Toxicology at Queen's University, where I integrate in vitro toxicology, bioinformatics, and molecular biology to understand how environmental and pharmaceutical chemical exposures disrupt key developmental pathways. I’m working to develop a New Approach Method (NAM) that uses an in vitro embryonic cell model to screen the toxicity of pharmaceuticals and environmental chemicals. Through this model, I’ve recently uncovered how chemical exposures alter gene regulation and epigenetics in key pathways involved in cancer, diabetes, and obesity (unpublished, preliminary data).
 
-Looking ahead, my career interests lie at the intersection of:
-- **Science communication**
-- **Data-informed decision-making**
-- **Dynamic, collaborative problem-solving**
-
-I'm especially excited about roles in **life sciences venture capital** or as a **Medical Science Liaison** in biotech/pharmaceutical companies.
+My work spans:
+- **Epigenomics** and **transcriptomics** (RNA-seq, WGBS, ChIP-seq)
+- Development of **novel toxicity prediction models** in aquatic embryonic cells (STE-137), which I hope to commercialize in the near future. 
+- **Data science** and **bioinformatics** workflows in R, including Differential Gene Expression, unsupervised clustering of gene networks, Differential Methylation Analysis, biological enrichment pipelines, multi-omic integration, and recently ML-based toxicity predictions based on data trained from my STE-137 cell model.
+- **Scientific Communication** – Extensive experience with scientific writing, speech competitions, pitches, and public engagement
 
 ---
 
-This site highlights a selection of my work:
+## 🚀 Current Entrepreneurial Projects
 
-- ✍️ [Writing Samples](/writing/)
-- 🎤 [Presentation Highlights](/presentations/)
-- 📱 [Social Media Content](/socialmedia/)
+- **ToxQuest**: A decision-support platform integrating AI models to prioritize safe drug candidates for early-stage discovery teams  
+  
+
+- **QUBIC (Queen’s University Biotech Innovation & Consulting Group)**:  
+  I am launching a student-led initiative to help researchers transition into biotech and pharma careers through case comps, case studies and training. 
+
+
+---
+
+## Interests & Goals
+
+- Translating academic science into actionable, real-world solutions
+- Exploring roles in **venture capital/creation**, **regulatory affairs**, and **medical affairs**
+- Collaborating on **data-driven biotech tools** and **scientific strategy**
+
+
+---
+
 
 Please feel free to explore — and don’t hesitate to [connect with me on LinkedIn](https://www.linkedin.com/in/logan-germain-72b1201a9/) or [send me an email](mailto:15lsg@queensu.ca)!
