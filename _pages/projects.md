@@ -20,6 +20,10 @@ permalink: /projects/
 
 **2) QUEEN'S UNIVERSITY BIOTECH INNOVATION & CONSULTING GROUP (QUBIC)** 
 
+![Alt text](./assets/QUBIC.png)
+
+
+
 QUBIC is a student-led initiative launching in the 2025–2026 academic year to bridge the gap between academic training and industry careers in biotechnology, pharmaceuticals, and medical devices.
 
 At Queen’s University, graduate students often face barriers entering these sectors due to limited co-op programs, industry exposure, and targeted professional development opportunities in Kingston. QUBIC aims to change that by empowering trainees with the tools, experiences, and connections needed to succeed beyond academia.
