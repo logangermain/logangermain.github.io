@@ -1,10 +1,7 @@
 
 
-I'm **Logan Germain**, a second-year PhD candidate in the Department of Biomedical and Molecular Sciences at Queen’s University, specializing in Drug Development and Human Toxicology.  
 
-
-
-# 👋 Hi, I'm Logan Germain
+# Hi, I'm Logan Germain
 
 I'm a PhD candidate in Drug Development & Human Toxicology at Queen's University, where I integrate in vitro toxicology, bioinformatics, and molecular biology to understand how environmental and pharmaceutical chemical exposures disrupt key developmental pathways. I’m working to develop a New Approach Method (NAM) that uses an in vitro embryonic cell model to screen the toxicity of pharmaceuticals and environmental chemicals. Through this model, I’ve recently uncovered how chemical exposures alter gene regulation and epigenetics in key pathways involved in cancer, diabetes, and obesity (unpublished, preliminary data).
 
