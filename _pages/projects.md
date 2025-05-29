@@ -20,7 +20,7 @@ permalink: /projects/
 
 **2) QUEEN'S UNIVERSITY BIOTECH INNOVATION & CONSULTING GROUP (QUBIC)** 
 
-![Alt text](./assets/QUBIC.png)
+![Alt text](./assets/images/QUBIC.png)
 
 
 
