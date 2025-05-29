@@ -13,7 +13,7 @@ My work spans:
 
 ---
 
-## 🚀 Current Entrepreneurial Projects
+## Current Side Projects
 
 - **ToxQuest**: A decision-support platform integrating AI models to prioritize safe drug candidates for early-stage discovery teams  
   
