@@ -1,4 +1,6 @@
 main:
+  - title: "Resume"
+    url: /resume/
   - title: "Writing"
     url: /writing/
   - title: "Presentations"
