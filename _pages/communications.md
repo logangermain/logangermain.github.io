@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Social Media Samples"
-permalink: /socialmedia/
+title: "Marketing & Communications Samples"
+permalink: /communications/
 ---
 
-I have several years of experience as a content creator and communications strategist for various types of organizations and companies. Below are my recent affiliations.
+I have several years of experience as a content creator and communications strategist for various types of organizations and companies. Below are my current affiliations.
 
 1) I am currently the content creator on the Social Media Working Group for an international scientific society. 
 
