@@ -4,10 +4,10 @@ Hi, I'm Logan Germain
 I'm a PhD candidate in Drug Development & Human Toxicology at Queen's University, where I integrate in vitro toxicology, bioinformatics, and molecular biology to understand how environmental and pharmaceutical chemical exposures disrupt key developmental pathways. I’m working to develop a New Approach Method (NAM) that uses an in vitro embryonic cell model to screen the toxicity of pharmaceuticals and environmental chemicals. Through this model, I’ve recently uncovered how chemical exposures alter gene regulation and epigenetics in key pathways involved in cancer, diabetes, and obesity (unpublished, preliminary data).
 
 My work spans:
-- **Epigenomics** and **transcriptomics** (RNA-seq, WGBS, ChIP-seq)
-- Development of **novel toxicity prediction models** in aquatic embryonic cells (STE-137), which I hope to commercialize in the near future. 
+- **Epigenomics** and **transcriptomics** (RNA-seq, WGBS, RT-qPCR, flow cytometry, ELISA, western blot)).
+- Development of **novel toxicity prediction methods** in an in vitro embryonic cell model (STE-137), which I hope to commercialize in the near future. 
 - **Data science** and **bioinformatics** workflows primarily in R (some Python). See my [Bioinformatics page] (bioinformatics.md)!
-- **Scientific Communication** – Extensive experience with scientific writing, speech competitions, pitches, and public engagement
+- **Scientific Communication** – Extensive experience with scientific writing, speech competitions, pitches, and public engagement.
 
 ---
 
