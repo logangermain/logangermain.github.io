@@ -3,9 +3,7 @@ main:
     url: /writing/
   - title: "Presentations"
     url: /presentations/
-  - title: "Social Media"
-    url: /socialmedia/
-  - title: "Bioinformatics"
-    url: /bioinformatics/
-  - title: "Pitch Decks"
-    url: /pitchdecks/
+  - title: "Marketing & Communications"
+    url: /communications/
+  - title: "Projects"
+    url: /Projects/
