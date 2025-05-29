@@ -13,4 +13,34 @@ Our goal is to have our first users be academic labs, CROs, and early-stage biot
 We are currently exiting the ideation phase and entering the early build phase; developing our MVP, validation dataset, and conducting product-market research. The long-term goal is to build a lean, acquisition-ready platform that integrates seamlessly into early-stage discovery pipelines.
 
 
+**QUEEN'S UNIVERSITY BIOTECH INNOVATION & CONSULTING GROUP (QUBIC)** 
 
+QUBIC is a student-led initiative launching in the 2025–2026 academic year to bridge the gap between academic training and industry careers in biotechnology, pharmaceuticals, and medical devices.
+
+At Queen’s University, graduate students often face barriers entering these sectors due to limited co-op programs, industry exposure, and targeted professional development opportunities in Kingston. QUBIC aims to change that by empowering trainees with the tools, experiences, and connections needed to succeed beyond academia.
+
+Our Flagship Program: Industry Training & Case Study (ITCS)
+QUBIC’s cornerstone offering is a competitive, hands-on case study program developed in collaboration with local life sciences businesses. Open to graduate students from all disciplines, ITCS will:
+
+- Provide real-world experience solving industry-relevant challenges
+
+- Help students build competitive, industry-aligned resumes
+
+- Facilitate mentorship and networking with biotech, pharma, and medtech professionals
+
+- Connect local companies with exceptional talent
+
+- Strengthen Kingston’s role as a life sciences innovation hub
+
+Additional Programming (In Development):
+
+- Career panels and fireside chats with industry leaders
+
+- Skill-building workshops (e.g., regulatory strategy, biotech finance, scientific communication)
+
+- Networking events with students, alumni, and employers
+
+- Resume clinics and mock interviews tailored to biotech and pharma roles
+
+
+We are currently building our founding team and advisory network. If you’re a student, industry member, or campus stakeholder interested in supporting our launch, we’d love to connect.
