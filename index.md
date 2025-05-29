@@ -6,7 +6,7 @@ I'm a PhD candidate in Drug Development & Human Toxicology at Queen's University
 My work spans:
 - **Epigenomics** and **transcriptomics** (RNA-seq, WGBS, ChIP-seq)
 - Development of **novel toxicity prediction models** in aquatic embryonic cells (STE-137), which I hope to commercialize in the near future. 
-- **Data science** and **bioinformatics** workflows in R, including Differential Gene Expression, unsupervised clustering of gene networks, Differential Methylation Analysis, biological enrichment pipelines, multi-omic integration, and recently ML-based toxicity predictions based on data trained from my STE-137 cell model.
+- **Data science** and **bioinformatics** workflows primarily in R (some Python). See my [Bioinformatics page] (bioinformatics.md)!
 - **Scientific Communication** – Extensive experience with scientific writing, speech competitions, pitches, and public engagement
 
 ---
