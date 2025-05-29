@@ -1,13 +1,1 @@
----
-layout: default
-title: Resume
-permalink: /resume/
----
-
-<embed src="/assets/LoganGermain_Resume_2025.pdf" type="application/pdf" width="100%" height="800px" />
-
-[Download PDF](/assets/LoganGermain_Resume_2025.pdf)
-
-
-
-
+<a href="/assets/LoganGermain_Resume_2025.pdf" target="_blank">Resume</a>
