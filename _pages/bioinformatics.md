@@ -13,7 +13,7 @@ Here are some of the analyses I have experience working on:
 **My analytical experience includes:**
 
 - Differential gene expression analysis (DESeq2)
-- Unsupervised clustering using Weighted Gene Co-expression Network Analysis (WGCNA)
+- Unsupervised gene clustering using Weighted Gene Co-expression Network Analysis (WGCNA)
 - Gene Set Enrichment Analysis (GSEA) to identify coordinated shifts in biological pathways
 - Genome-wide differential methylation analysis at CpG resolution (methylKit)
 - Biological pathway enrichment (GO, KEGG)
