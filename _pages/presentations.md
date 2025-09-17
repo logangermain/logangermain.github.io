@@ -1,4 +1,4 @@
----
+<img width="1858" height="81" alt="image" src="https://github.com/user-attachments/assets/d68372b3-36a1-42b2-8078-cc23ed27dcc1" />---
 layout: single
 title: "Presentation Samples"
 permalink: /presentations/
@@ -20,6 +20,9 @@ Competitions & Talks
 
 
 **Here is a full list of my recent presentations & talks:**
+
+Germain, L., Xue, L., & Winn, L.M. (2025). Transcriptomic and Epigenetic Responses to Flame Retardant Exposure in an Embryonic Cell Model. Society of Birth Defects Research and Prevention Annual Meeting. Denver, CO. Oral Presentation. 
+-**Society of Birth Defects Research and Prevention Trainee Award ($500 USD)**
 
 Germain, L. (2024). Unravelling the hidden influence of early-life chemical exposures on disease outcomes.
 Three-Minute Thesis (3MT) Speech Competition. Queen’s University.
