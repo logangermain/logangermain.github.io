@@ -82,17 +82,3 @@ Recommendations:
 **Abstract:**
 The epigenome, a dynamic interface between the genome and the environment, is shaped by a combination of intrinsic and extrinsic factors that can modulate DNA methylation and histone modifications. This essay explores how genetic variation, age, sex, and tissue type contribute to individual variability in epigenetic landscapes, and how external influences such as diet, reproductive status, and chemical exposures, particularly endocrine-disrupting chemicals like bisphenol A (BPA) and triclocarban, further alter these profiles. Through a comprehensive review of studies across multiple species and tissues, this work underscores the context-specific nature of epigenetic responses and highlights the interconnectedness between different epigenetic marks. It further illustrates how these factors can confound or mediate the impact of studying environmental chemical exposures, emphasizing the importance of accounting for biological and environmental variability in the field of epigenetics and regulatory toxicology. An understanding of these complex and interconnected processes is critical to improving risk assessment and identifying truly adverse epigenetic alterations in response to chemical exposures, as well as identifying potential therapeutic pathways
 
-
-
-
-I have several years of experience as a content creator and communications strategist for various types of organizations and companies. Below are my current affiliations.
-
-1) I am currently the content creator on the Social Media Working Group for an international scientific society. 
-
-View the Society for Birth Defects Research and Prevention's [LinkedIn Posts](https://www.linkedin.com/company/societyforbirthdefectsresearch/)
-
-
-2) I am the Marketing and Communications Director for a not-for-profit, cooperative climbing gym that values community engagement and accessibility.
-
-View the Kingston Bouldering Cooperative's [Instagram Posts](https://www.instagram.com/kingstonboulderingcoop/?hl=en) and [Website](https://kingstonboulderingcoop.com/)
-
