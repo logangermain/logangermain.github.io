@@ -1,4 +1,4 @@
-<img width="1858" height="81" alt="image" src="https://github.com/user-attachments/assets/d68372b3-36a1-42b2-8078-cc23ed27dcc1" />---
+
 layout: single
 title: "Presentation Samples"
 permalink: /presentations/
