@@ -6,11 +6,14 @@ permalink: /writing/
 
 Here are a few examples of my writing across different formats and for different audiences:
 
+
 **Peer-Reviewed Published Papers:**
 
 - [Commercialization of cell and gene therapy in Canada: Current landscape, challenges and opportunities](https://www.sciencedirect.com/science/article/pii/S1359644625001667?via%3Dihub)
 - [The flame retardant triphenyl phosphate alters the epigenome of embryonic cells in an aquatic in vitro model](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jat.4589)
 - [Reference gene considerations for toxicological assessment of the flame retardant triphenyl phosphate in an in vitro fish embryonic model](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jat.4698)
+
+
 
 **Personal Projects:**
 
