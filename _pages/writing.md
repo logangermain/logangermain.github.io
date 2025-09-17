@@ -12,7 +12,37 @@ Here are a few examples of my writing across different formats and for different
 - [Reference gene considerations for toxicological assessment of the flame retardant triphenyl phosphate in an in vitro fish embryonic model](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jat.4698)
 
 **Personal Projects:**
-- [1) The influence of intrinsic and extrinsic factors on epigenetic modulation in
+
+1) Linking Environmental Chemical Exposures to Cancer Risk – Key Insights
+
+**Executive Summary:** Environmental exposures play a role in cancer, but causality is difficult to establish due to long latency, individual variability, and limitations in current study designs. Traditional hazard classifications are insufficient; risk-based frameworks integrating mechanistic, epidemiological, and exposure data are needed.
+
+Key Insights:
+
+- Complexity of Carcinogenesis: Cancer develops through multi-stage processes influenced by genetic variation, epigenetics, lifestyle, and exposure timing.
+
+- Case Studies:
+    - Cigarette smoke: clear genotoxic effects (DNA adducts).
+    - Arsenic: indirect effects via oxidative stress and DNA hypomethylation.
+    - Bisphenol A (BPA): endocrine disruption, non-genotoxic promotion.
+
+- Individual Susceptibility:
+    - Intrinsic: polymorphisms in repair/metabolic genes, age, sex.
+    - Extrinsic: diet, stress, exposure intensity/timing.
+
+
+Research Gaps:
+- Confounding in human studies; species differences in animal models.
+- Non-linear dose–responses complicate risk estimates (especially EDCs).
+
+Policy Challenge: Hazard classifications (e.g., IARC) miss context of real-world mixed, chronic exposures.
+
+Recommendations:
+- Shift toward risk-based frameworks incorporating exposure levels, timing, and susceptibility factors.
+- Leverage epigenetic biomarkers as early indicators of risk.
+- Expand international data-sharing to strengthen causal inference across populations.
+
+[1) FULL REPORT: The influence of intrinsic and extrinsic factors on epigenetic modulation in
 response to chemical exposures](https://logangermain.github.io/assets/Epigenetic%20response%20to%20chemical%20exposures.pdf)
 
 **Abstract:**
@@ -25,3 +55,16 @@ Environmental chemical exposures contribute to cancer risk through diverse mecha
 
 - [Read my pitch speech to the Awesome Foundation Pitch Competition for a micro-grant at a small business that I manage](https://docs.google.com/document/d/1ZtyoDNkdRa4leO6JWJ2caRIEag0TRUrJi0Yy8vJkhE4/edit?usp=sharing)
   
+
+
+I have several years of experience as a content creator and communications strategist for various types of organizations and companies. Below are my current affiliations.
+
+1) I am currently the content creator on the Social Media Working Group for an international scientific society. 
+
+View the Society for Birth Defects Research and Prevention's [LinkedIn Posts](https://www.linkedin.com/company/societyforbirthdefectsresearch/)
+
+
+2) I am the Marketing and Communications Director for a not-for-profit, cooperative climbing gym that values community engagement and accessibility.
+
+View the Kingston Bouldering Cooperative's [Instagram Posts](https://www.instagram.com/kingstonboulderingcoop/?hl=en) and [Website](https://kingstonboulderingcoop.com/)
+
